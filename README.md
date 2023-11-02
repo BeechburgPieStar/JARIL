@@ -3,26 +3,11 @@ Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor
 
 # The code for test is published!
 
-### 文件目录说明
+### Requirement
 
-###### 开发前的配置要求
+xxx
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
-
-###### **安装步骤**
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-
-```sh
-git clone https://github.com/shaojintian/Best_README_template.git
-```
-
-### 文件目录说明
-eg:
-
-```
+### File directory description
 filetree 
 ├── ARCHITECTURE.md
 ├── LICENSE.txt
