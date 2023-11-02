@@ -3,6 +3,8 @@ Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor
 
 # The code for test is published!
 
+### 文件目录说明
+
 ###### 开发前的配置要求
 
 1. xxxxx x.x.x
