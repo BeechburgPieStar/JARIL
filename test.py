@@ -50,7 +50,7 @@ test_label = torch.from_numpy(test_label).type(torch.LongTensor)
 test_dataset = TensorDataset(test_data, test_label)
 test_data_loader = DataLoader(dataset=test_dataset, batch_size=batch_size, shuffle=False)
 
-model_name = 'XceptionTime_mixup_0.3'
+model_name = 'Proposed'#Proposed_without_MixUp
 
 aplnet = torch.load(f'weights/{model_name}.pkl')
 
