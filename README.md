@@ -1,4 +1,6 @@
 # JARIL
-Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization with CSI Fingerprinting
+Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization with CSI Fingerprints
 
-# To be published!
+# The code for test is published!
+
+
