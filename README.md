@@ -16,11 +16,13 @@ filetree
 │  ├── test_data_split_amp.mat
 |  └── train_data_split_amp.mat
 ├── models
-│  ├── (modelname).py (it will be published)
+│  ├── modelname.py (it will be published)
 |  └── layers.py
 ├── weights
 │  ├── Proposed.pkl
 |  └── Proposed_without_MixUp.pkl
+├── result
+├── vis
 ├── train.py (it will be published)
 └── test.py
 
