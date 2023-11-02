@@ -12,21 +12,17 @@ eg:
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
 ├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+├── /data/
+│  ├── test_data_split_amp.mat
+|  └── train_data_split_amp.mat
+├── models
+│  ├── XceptionTime_model.py
+|  └── layers.py
+├── weights
+│  ├── XceptionTime.pkl
+|  └── XceptionTime_mixup_0.3.pkl
+└── test.py
 
 ```
 
