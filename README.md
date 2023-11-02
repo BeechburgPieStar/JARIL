@@ -16,11 +16,12 @@ filetree
 │  ├── test_data_split_amp.mat
 |  └── train_data_split_amp.mat
 ├── models
-│  ├── XceptionTime_model.py
+│  ├── (modelname).py (it will be published)
 |  └── layers.py
 ├── weights
 │  ├── Proposed.pkl
 |  └── Proposed_without_MixUp.pkl
+├── train.py (it will be published)
 └── test.py
 
 ```
