@@ -8,7 +8,6 @@ Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor
 xxx
 
 ### File directory description
-eg:
 
 ```
 filetree 
