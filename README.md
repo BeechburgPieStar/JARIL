@@ -19,8 +19,8 @@ filetree
 │  ├── XceptionTime_model.py
 |  └── layers.py
 ├── weights
-│  ├── XceptionTime.pkl
-|  └── XceptionTime_mixup_0.3.pkl
+│  ├── Proposed.pkl
+|  └── Proposed_without_MixUp.pkl
 └── test.py
 
 ```
