@@ -8,6 +8,7 @@ Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor
 xxx
 
 ### File directory description
+
 filetree 
 ├── ARCHITECTURE.md
 ├── LICENSE.txt
