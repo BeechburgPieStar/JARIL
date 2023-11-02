@@ -15,8 +15,8 @@ filetree
 ├── /data/
 │  ├── test_data_split_amp.mat
 |  └── train_data_split_amp.mat
-├── models
-│  ├── modelname.py (it will be published)
+├── models (it will be published)
+│  ├── modelname.py 
 |  └── layers.py
 ├── weights
 │  ├── Proposed.pkl
