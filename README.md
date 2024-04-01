@@ -5,8 +5,11 @@ Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor
 
 ### Requirement
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
+torch                              1.11.0+cu113
+torchaudio                         0.11.0+cu113
+torchsummary                       1.5.1
+torchvision                        0.12.0+cu113
+Python                             3.8.5
 
 ### File directory description
 
