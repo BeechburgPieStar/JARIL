@@ -29,6 +29,12 @@ filetree
 
 ```
 
+### Performance
+
+AR accuracy: 0.9172661870503597; AUC: 0.9919091183016525
+
+IL precision: 0.9964028776978417
+
 ### Thanks
 
 
