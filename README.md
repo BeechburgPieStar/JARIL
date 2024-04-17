@@ -27,7 +27,6 @@ filetree
 │  ├── modelname.py 
 |  └── layers.py
 ├── weights
-│  ├── Proposed.pkl
 |  └── Proposed_without_MixUp.pkl
 ├── result
 ├── vis
