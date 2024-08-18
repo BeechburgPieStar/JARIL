@@ -23,14 +23,14 @@ filetree
 ├── /data/
 │  ├── test_data_split_amp.mat
 |  └── train_data_split_amp.mat
-├── models (it will be published)
-│  ├── modelname.py 
+├── models
+│  ├── XceptionTime_model.py
 |  └── layers.py
 ├── weights
-|  └── Proposed_without_MixUp.pkl
+|  └── XceptionTime_CSIMix_2.0.pkl
 ├── result
 ├── vis
-├── train.py (it will be published)
+├── train_CSIMix.py (it will be published)
 └── test.py
 
 ```
