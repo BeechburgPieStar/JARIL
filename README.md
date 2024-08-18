@@ -30,7 +30,7 @@ filetree
 |  └── XceptionTime_CSIMix_2.0.pkl
 ├── result
 ├── vis
-├── train_CSIMix.py (it will be published)
+├── train_CSIMix.py
 └── test.py
 
 ```
