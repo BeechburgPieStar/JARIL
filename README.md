@@ -1,5 +1,5 @@
 # JARIL
-Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization with CSI Fingerprints
+Y. Wang, H. Zhao, T. Ohtsuki, H. Sari and G. Gui, "Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization with CSI Fingerprints," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3447786. 
 
 # The code for test is published!
 
