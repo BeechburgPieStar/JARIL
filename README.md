@@ -1,7 +1,17 @@
 # JARIL
 Y. Wang, H. Zhao, T. Ohtsuki, H. Sari and G. Gui, "Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization with CSI Fingerprints," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3447786. 
 
-# The code for test is published!
+# Revision Notice: Due to errors in the previous MACs computation for some models, all affected results have been recalculated. The values presented in the following table should be regarded as the authoritative results.
+
+| Model          | MACs (G)     | Params (M)  |
+|---------------|--------------|-------------|
+| Proposed      | 0.156845346  | 0.980136    |
+| InceptionTime | 0.205816128  | 1.05103     |
+| TS_ResNet     | 0.389016448  | 1.011222    |
+| ResNet        | 0.030273536  | 3.490326    |
+| ResNet_plus   | 0.031849472  | 4.277782    |
+| LSTM          | 0.005899648  | 0.031638    |
+| BiLSTM        | 0.012066816  | 0.061846    |
 
 ### Requirement
 
